@@ -1,4 +1,4 @@
-<h2 align="center">Greetings, I am Gauranga Gautam, an assiduous aspirant deeply immersed in the sacred realm of Cybersecurity within Nepal. Pledged am I, to vigilantly safeguarding the digital domain. With humble sincerity, I extend a gracious invitation for discourse on matters of cybersecurity. Thy insights and knowledge shall be esteemed in this noble pursuit.</h2>
+<h2 align="center">Greetings, I am Gauranga Gautam (GG). </h2>
 
 ###
 
