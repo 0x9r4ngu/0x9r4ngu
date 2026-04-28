@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/spiritedonion">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=BD93F9&center=true&vCenter=true&multiline=false&width=720&height=50&lines=Greetings%2C+I+am+Gauranga+Gautam+(GG).;Code.+Create.+Caffeinate.+Repeat.;Linux+%E2%80%A2+Python+%E2%80%A2+C+%E2%80%A2+Cloud+%E2%80%A2+Design;Always+building+something+a+little+weird." alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=BD93F9&center=true&vCenter=true&multiline=false&width=780&height=50&lines=Greetings%2C+I+am+Gauranga+Gautam+(GG).;Offensive+Security+Analyst+%E2%80%A2+Red+Team;Web+%E2%80%A2+API+%E2%80%A2+Mobile+%E2%80%A2+Active+Directory;Breaking+things+on+purpose%2C+then+fixing+them+on+purpose." alt="typing intro" />
   </a>
 </p>
 
@@ -31,11 +31,72 @@
 ```yaml
 name:        Gauranga Gautam
 alias:       GG / spiritedonion
-focus:       [ "systems", "scripting", "design", "automation" ]
+role:        Offensive Security Analyst
+location:    Chardobato, Bhaktapur
+focus:       [ "red team", "pentesting", "web/API sec", "mobile sec", "AD exploitation" ]
 languages:   [ Python, C, Bash, SQL ]
 playground:  [ Linux, Arduino, AWS, Docker ]
+writes_at:   "https://spiritedonion.github.io"
 currently:   "breaking things on purpose so I can fix them on purpose"
 ```
+
+<!-- =========================  OFFSEC  ========================= -->
+
+## <img src="https://media.giphy.com/media/RkF3owlk2zmj0hCjev/giphy.gif" width="28"> &nbsp; Offensive Security
+
+> I work as an **Offensive Security Analyst** — red-team flavor.
+> I write public, hands-on pentesting playbooks at **[spiritedonion.github.io](https://spiritedonion.github.io)**.
+
+<table align="center">
+  <tr>
+    <td align="center" width="170"><b>🌐 Web & API</b></td>
+    <td>OWASP Top 10, auth bypass, IDOR, SSRF, business-logic abuse, rate-limit & OTP brute-force with IP rotation</td>
+  </tr>
+  <tr>
+    <td align="center"><b>📱 Mobile</b></td>
+    <td>iOS &amp; Android app pentesting — static + dynamic analysis, runtime manipulation, deep-link abuse</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🏰 Active Directory</b></td>
+    <td>Kerberoasting, AS-REP roasting, ACL abuse, lateral movement, full AD exploitation flows</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🛰️ Network</b></td>
+    <td>Recon, enumeration, pivoting, infrastructure pentesting</td>
+  </tr>
+</table>
+
+### 📝 Selected Writeups
+
+<div align="center">
+
+| Topic | Link |
+|:--|:--|
+| 🏰 Active Directory Exploitation Flow | [read →](https://spiritedonion.github.io) |
+| 🌐 Advanced Web Application Pentesting Checklist | [read →](https://spiritedonion.github.io) |
+| 🤖 Advanced Android Mobile App Pentesting Checklist | [read →](https://spiritedonion.github.io) |
+| 🍎 Advanced iOS Mobile App Pentesting Checklist | [read →](https://spiritedonion.github.io) |
+| 🔓 Rate Limit Bypass: OTP Brute-Force with IP Rotation | [read →](https://spiritedonion.github.io) |
+
+</div>
+
+### 🧰 Toolbox
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="kali" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="burp" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="metasploit" />
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white" alt="nmap" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark" />
+  <img src="https://img.shields.io/badge/BloodHound-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="bloodhound" />
+  <img src="https://img.shields.io/badge/Frida-E91E63?style=for-the-badge&logo=frida&logoColor=white" alt="frida" />
+  <img src="https://img.shields.io/badge/MobSF-3F51B5?style=for-the-badge&logo=android&logoColor=white" alt="mobsf" />
+  <img src="https://img.shields.io/badge/Ghidra-00A4E4?style=for-the-badge&logo=ghidra&logoColor=white" alt="ghidra" />
+  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="htb" />
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="thm" />
+</p>
+
+<p align="center"><sub><i>⚖️ Everything I publish is for authorized engagements, CTFs, and defensive education. Stay legal, stay curious.</i></sub></p>
 
 <!-- =========================  STATS  ========================= -->
 
@@ -127,6 +188,9 @@ currently:   "breaking things on purpose so I can fix them on purpose"
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp; Connect With Me
 
 <p align="center">
+  <a href="https://spiritedonion.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-BD93F9?style=for-the-badge&logo=hexo&logoColor=white" alt="blog" />
+  </a>
   <a href="https://www.linkedin.com/in/gaurangagautam/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
