@@ -1,7 +1,7 @@
 <!-- =========================  HEADER  ========================= -->
 
 <a href="https://github.com/spiritedonion">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Gauranga%20Gautam&fontSize=70&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=%E2%9D%96%20%20Developer%20%E2%80%A2%20Designer%20%E2%80%A2%20Tinkerer%20%20%E2%9D%96&descAlignY=60&descSize=18" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Gauranga%20Gautam&fontSize=70&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=%E2%9D%96%20%20Pentester%20%E2%80%A2%20Designer%20%E2%80%A2%20Researcher%20%20%E2%9D%96&descAlignY=60&descSize=18" alt="header banner" />
 </a>
 
 <p align="center">
