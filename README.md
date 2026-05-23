@@ -30,7 +30,7 @@
 
 ```yaml
 name:        0x9r4ngu
-alias:       GG / 0x9r4ngu / SpiritedOnion
+alias:       0x9r4ngu
 role:        Offensive Security Analyst
 location:    Chardobato, Bhaktapur
 focus:       [ "red team", "pentesting", "web/API sec", "mobile sec", "AD exploitation" ]
