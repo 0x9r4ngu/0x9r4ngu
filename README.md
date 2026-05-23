@@ -1,12 +1,12 @@
 <!-- =========================  HEADER  ========================= -->
 
 <a href="https://github.com/0x9r4ngu">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Gauranga%20Gautam&fontSize=70&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=%E2%9D%96%20%20Pentester%20%E2%80%A2%20Designer%20%E2%80%A2%20Researcher%20%20%E2%9D%96&descAlignY=60&descSize=18" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=0x9r4ngu&fontSize=70&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=%E2%9D%96%20%20Pentester%20%E2%80%A2%20Designer%20%E2%80%A2%20Researcher%20%20%E2%9D%96&descAlignY=60&descSize=18" alt="header banner" />
 </a>
 
 <p align="center">
   <a href="https://github.com/0x9r4ngu">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=BD93F9&center=true&vCenter=true&multiline=false&width=780&height=50&lines=Greetings%2C+I+am+Gauranga+Gautam+(GG).;Offensive+Security+Analyst+%E2%80%A2+Red+Team;Web+%E2%80%A2+API+%E2%80%A2+Mobile+%E2%80%A2+Active+Directory;Breaking+things+on+purpose%2C+then+fixing+them+on+purpose." alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=BD93F9&center=true&vCenter=true&multiline=false&width=780&height=50&lines=Greetings%2C+I+am+0x9r4ngu.;Offensive+Security+Analyst+%E2%80%A2+Red+Team;Web+%E2%80%A2+API+%E2%80%A2+Mobile+%E2%80%A2+Active+Directory;Breaking+things+on+purpose%2C+then+fixing+them+on+purpose." alt="typing intro" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp; About Me
 
 ```yaml
-name:        Gauranga Gautam
+name:        0x9r4ngu
 alias:       GG / 0x9r4ngu / SpiritedOnion
 role:        Offensive Security Analyst
 location:    Chardobato, Bhaktapur
