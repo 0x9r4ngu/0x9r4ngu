@@ -1,22 +1,22 @@
 <!-- =========================  HEADER  ========================= -->
 
-<a href="https://github.com/spiritedonion">
+<a href="https://github.com/0x9r4ngu">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Gauranga%20Gautam&fontSize=70&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=%E2%9D%96%20%20Pentester%20%E2%80%A2%20Designer%20%E2%80%A2%20Researcher%20%20%E2%9D%96&descAlignY=60&descSize=18" alt="header banner" />
 </a>
 
 <p align="center">
-  <a href="https://github.com/spiritedonion">
+  <a href="https://github.com/0x9r4ngu">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=BD93F9&center=true&vCenter=true&multiline=false&width=780&height=50&lines=Greetings%2C+I+am+Gauranga+Gautam+(GG).;Offensive+Security+Analyst+%E2%80%A2+Red+Team;Web+%E2%80%A2+API+%E2%80%A2+Mobile+%E2%80%A2+Active+Directory;Breaking+things+on+purpose%2C+then+fixing+them+on+purpose." alt="typing intro" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/spiritedonion?tab=followers">
-    <img src="https://img.shields.io/github/followers/spiritedonion?label=Followers&style=for-the-badge&color=bd93f9&labelColor=282a36&logo=github" alt="followers" />
+  <a href="https://github.com/0x9r4ngu?tab=followers">
+    <img src="https://img.shields.io/github/followers/0x9r4ngu?label=Followers&style=for-the-badge&color=bd93f9&labelColor=282a36&logo=github" alt="followers" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=spiritedonion&style=for-the-badge&color=bd93f9&label=PROFILE+VIEWS&labelColor=282a36" alt="profile views" />
-  <a href="https://github.com/spiritedonion?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?color=bd93f9&labelColor=282a36&style=for-the-badge&label=PUBLIC%20REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fspiritedonion" alt="repos" />
+  <img src="https://komarev.com/ghpvc/?username=0x9r4ngu&style=for-the-badge&color=bd93f9&label=PROFILE+VIEWS&labelColor=282a36" alt="profile views" />
+  <a href="https://github.com/0x9r4ngu?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?color=bd93f9&labelColor=282a36&style=for-the-badge&label=PUBLIC%20REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2F0x9r4ngu" alt="repos" />
   </a>
 </p>
 
@@ -30,13 +30,13 @@
 
 ```yaml
 name:        Gauranga Gautam
-alias:       GG / spiritedonion
+alias:       GG / 0x9r4ngu / SpiritedOnion
 role:        Offensive Security Analyst
 location:    Chardobato, Bhaktapur
 focus:       [ "red team", "pentesting", "web/API sec", "mobile sec", "AD exploitation" ]
 languages:   [ Python, C, Bash, SQL ]
 playground:  [ Linux, Arduino, AWS, Docker ]
-writes_at:   "https://spiritedonion.github.io"
+writes_at:   "https://0x9r4ngu.github.io"
 currently:   "breaking things on purpose so I can fix them on purpose"
 ```
 
@@ -45,7 +45,7 @@ currently:   "breaking things on purpose so I can fix them on purpose"
 ## <img src="https://media.giphy.com/media/RkF3owlk2zmj0hCjev/giphy.gif" width="28"> &nbsp; Offensive Security
 
 > I work as an **Offensive Security Analyst** — red-team flavor.
-> I write public, hands-on pentesting playbooks at **[spiritedonion.github.io](https://spiritedonion.github.io)**.
+> I write public, hands-on pentesting playbooks at **[0x9r4ngu.github.io](https://0x9r4ngu.github.io)**.
 
 <table align="center">
   <tr>
@@ -72,11 +72,11 @@ currently:   "breaking things on purpose so I can fix them on purpose"
 
 | Topic | Link |
 |:--|:--|
-| 🏰 Active Directory Exploitation Flow | [read →](https://spiritedonion.github.io) |
-| 🌐 Advanced Web Application Pentesting Checklist | [read →](https://spiritedonion.github.io) |
-| 🤖 Advanced Android Mobile App Pentesting Checklist | [read →](https://spiritedonion.github.io) |
-| 🍎 Advanced iOS Mobile App Pentesting Checklist | [read →](https://spiritedonion.github.io) |
-| 🔓 Rate Limit Bypass: OTP Brute-Force with IP Rotation | [read →](https://spiritedonion.github.io) |
+| 🏰 Active Directory Exploitation Flow | [read →](https://0x9r4ngu.github.io) |
+| 🌐 Advanced Web Application Pentesting Checklist | [read →](https://0x9r4ngu.github.io) |
+| 🤖 Advanced Android Mobile App Pentesting Checklist | [read →](https://0x9r4ngu.github.io) |
+| 🍎 Advanced iOS Mobile App Pentesting Checklist | [read →](https://0x9r4ngu.github.io) |
+| 🔓 Rate Limit Bypass: OTP Brute-Force with IP Rotation | [read →](https://0x9r4ngu.github.io) |
 
 </div>
 
@@ -103,17 +103,17 @@ currently:   "breaking things on purpose so I can fix them on purpose"
 ## <img src="https://media.giphy.com/media/W3QKEujo8vztC/giphy.gif" width="28"> &nbsp; GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spiritedonion&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="170" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=spiritedonion&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="170" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0x9r4ngu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="170" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=0x9r4ngu&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="170" alt="streak graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=spiritedonion&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true" height="170" alt="languages graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=spiritedonion&theme=dracula&no-frame=true&no-bg=true&column=4&row=2&margin-w=8&margin-h=8" height="170" alt="trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0x9r4ngu&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true" height="170" alt="languages graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=0x9r4ngu&theme=dracula&no-frame=true&no-bg=true&column=4&row=2&margin-w=8&margin-h=8" height="170" alt="trophies" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spiritedonion&theme=dracula&hide_border=true&area=true&custom_title=Contribution%20Graph" width="98%" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0x9r4ngu&theme=dracula&hide_border=true&area=true&custom_title=Contribution%20Graph" width="98%" alt="activity graph" />
 </div>
 
 <!-- =========================  OS  ========================= -->
@@ -180,7 +180,7 @@ currently:   "breaking things on purpose so I can fix them on purpose"
 ## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHy/giphy.gif" width="28"> &nbsp; Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/spiritedonion/spiritedonion/output/snake.svg" alt="Snake animation" width="98%" />
+  <img src="https://raw.githubusercontent.com/0x9r4ngu/0x9r4ngu/output/snake.svg" alt="Snake animation" width="98%" />
 </div>
 
 <!-- =========================  SOCIALS  ========================= -->
@@ -188,7 +188,7 @@ currently:   "breaking things on purpose so I can fix them on purpose"
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp; Connect With Me
 
 <p align="center">
-  <a href="https://spiritedonion.github.io" target="_blank">
+  <a href="https://0x9r4ngu.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Blog-BD93F9?style=for-the-badge&logo=hexo&logoColor=white" alt="blog" />
   </a>
   <a href="https://www.linkedin.com/in/gaurangagautam/" target="_blank">
@@ -197,7 +197,7 @@ currently:   "breaking things on purpose so I can fix them on purpose"
   <a href="https://discordid.netlify.app/?id=937335684681850890" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
   </a>
-  <a href="https://github.com/spiritedonion" target="_blank">
+  <a href="https://github.com/0x9r4ngu" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
 </p>
