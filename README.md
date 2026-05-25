@@ -1,217 +1,204 @@
-<!-- =========================  HEADER  ========================= -->
+<div align="center">
 
 <a href="https://github.com/0x9r4ngu">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=0x9r4ngu&fontSize=70&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=%E2%9D%96%20%20Pentester%20%E2%80%A2%20Designer%20%E2%80%A2%20Researcher%20%20%E2%9D%96&descAlignY=60&descSize=18" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=200&section=header&text=0x9r4ngu&fontSize=72&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Security%20Researcher%20%E2%80%A2%20Bug%20Bounty%20Hunter%20%E2%80%A2%20Red%20Team&descAlignY=62&descSize=16&descColor=a0a0a0" alt="header" />
 </a>
 
-<p align="center">
-  <a href="https://github.com/0x9r4ngu">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=BD93F9&center=true&vCenter=true&multiline=false&width=780&height=50&lines=Greetings%2C+I+am+0x9r4ngu.;Offensive+Security+Analyst+%E2%80%A2+Red+Team;Web+%E2%80%A2+API+%E2%80%A2+Mobile+%E2%80%A2+Active+Directory;Breaking+things+on+purpose%2C+then+fixing+them+on+purpose." alt="typing intro" />
-  </a>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/0x9r4ngu?tab=followers">
-    <img src="https://img.shields.io/github/followers/0x9r4ngu?label=Followers&style=for-the-badge&color=bd93f9&labelColor=282a36&logo=github" alt="followers" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=0x9r4ngu&style=for-the-badge&color=bd93f9&label=PROFILE+VIEWS&labelColor=282a36" alt="profile views" />
-  <a href="https://github.com/0x9r4ngu?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?color=bd93f9&labelColor=282a36&style=for-the-badge&label=PUBLIC%20REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2F0x9r4ngu" alt="repos" />
-  </a>
-</p>
+<a href="https://github.com/0x9r4ngu">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&height=40&lines=Breaking+things+on+purpose.;Finding+what+others+miss.;Web+%7C+API+%7C+Mobile+%7C+Active+Directory;Authorized+engagements+only." alt="typing" />
+</a>
 
-<!-- =========================  DIVIDER  ========================= -->
+<br/><br/>
 
-<img src="https://raw.githubusercontent.com/BrunoSobrino/BrunoSobrino/main/neon.gif" width="100%" height="2" alt="neon divider" />
+<a href="https://github.com/0x9r4ngu?tab=followers">
+  <img src="https://img.shields.io/github/followers/0x9r4ngu?label=Followers&style=for-the-badge&color=bd93f9&labelColor=1a1a2e&logo=github" />
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=0x9r4ngu&style=for-the-badge&color=bd93f9&label=VIEWS&labelColor=1a1a2e" />
+&nbsp;
+<a href="https://github.com/0x9r4ngu?tab=repositories">
+  <img src="https://img.shields.io/badge/dynamic/json?color=bd93f9&labelColor=1a1a2e&style=for-the-badge&label=REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2F0x9r4ngu" />
+</a>
 
-<!-- =========================  ABOUT  ========================= -->
+</div>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp; About Me
+---
+
+## `$ whoami`
 
 ```yaml
-name:        0x9r4ngu
-alias:       0x9r4ngu
-role:        Offensive Security Analyst
-location:    Chardobato, Bhaktapur
-focus:       [ "red team", "pentesting", "web/API sec", "mobile sec", "AD exploitation" ]
-languages:   [ Python, C, Bash, SQL ]
-playground:  [ Linux, Arduino, AWS, Docker ]
-writes_at:   "https://0x9r4ngu.github.io"
-currently:   "breaking things on purpose so I can fix them on purpose"
+handle:    0x9r4ngu
+role:      Offensive Security Analyst / Bug Bounty Hunter
+focus:
+  - Web & API Penetration Testing
+  - Mobile Security (iOS & Android)
+  - Active Directory Exploitation
+  - Bug Bounty Research
+languages: [ Python, C, Bash, SQL ]
+platforms: [ Linux, AWS, Docker ]
+blog:      https://0x9r4ngu.github.io
+status:    "breaking things responsibly since day one"
 ```
 
-<!-- =========================  OFFSEC  ========================= -->
+---
 
-## <img src="https://media.giphy.com/media/RkF3owlk2zmj0hCjev/giphy.gif" width="28"> &nbsp; Offensive Security
+## `$ cat skills.txt`
 
-> I work as an **Offensive Security Analyst** — red-team flavor.
-> I write public, hands-on pentesting playbooks at **[0x9r4ngu.github.io](https://0x9r4ngu.github.io)**.
-
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="170"><b>🌐 Web & API</b></td>
-    <td>OWASP Top 10, auth bypass, IDOR, SSRF, business-logic abuse, rate-limit & OTP brute-force with IP rotation</td>
-  </tr>
-  <tr>
-    <td align="center"><b>📱 Mobile</b></td>
-    <td>iOS &amp; Android app pentesting — static + dynamic analysis, runtime manipulation, deep-link abuse</td>
-  </tr>
-  <tr>
-    <td align="center"><b>🏰 Active Directory</b></td>
-    <td>Kerberoasting, AS-REP roasting, ACL abuse, lateral movement, full AD exploitation flows</td>
-  </tr>
-  <tr>
-    <td align="center"><b>🛰️ Network</b></td>
-    <td>Recon, enumeration, pivoting, infrastructure pentesting</td>
-  </tr>
-</table>
+    <td valign="top" width="50%">
 
-### 📝 Selected Writeups
+### 🌐 Web & API
+- OWASP Top 10 full coverage
+- Auth bypass, IDOR, SSRF, SSTI, XXE
+- Business logic abuse
+- Rate-limit & OTP brute-force with IP rotation
+- GraphQL, JWT, OAuth attacks
 
-<div align="center">
+### 📱 Mobile
+- iOS & Android static + dynamic analysis
+- Runtime manipulation with Frida
+- Deep-link abuse, SSL pinning bypass
+- Keychain / Keystore extraction
 
-| Topic | Link |
-|:--|:--|
-| 🏰 Active Directory Exploitation Flow | [read →](https://0x9r4ngu.github.io) |
-| 🌐 Advanced Web Application Pentesting Checklist | [read →](https://0x9r4ngu.github.io) |
-| 🤖 Advanced Android Mobile App Pentesting Checklist | [read →](https://0x9r4ngu.github.io) |
-| 🍎 Advanced iOS Mobile App Pentesting Checklist | [read →](https://0x9r4ngu.github.io) |
-| 🔓 Rate Limit Bypass: OTP Brute-Force with IP Rotation | [read →](https://0x9r4ngu.github.io) |
-
-</div>
-
-### 🧰 Toolbox
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="kali" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="burp" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="metasploit" />
-  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white" alt="nmap" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark" />
-  <img src="https://img.shields.io/badge/BloodHound-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="bloodhound" />
-  <img src="https://img.shields.io/badge/Frida-E91E63?style=for-the-badge&logo=frida&logoColor=white" alt="frida" />
-  <img src="https://img.shields.io/badge/MobSF-3F51B5?style=for-the-badge&logo=android&logoColor=white" alt="mobsf" />
-  <img src="https://img.shields.io/badge/Ghidra-00A4E4?style=for-the-badge&logo=ghidra&logoColor=white" alt="ghidra" />
-  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="htb" />
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="thm" />
-</p>
-
-<p align="center"><sub><i>⚖️ Everything I publish is for authorized engagements, CTFs, and defensive education. Stay legal, stay curious.</i></sub></p>
-
-<!-- =========================  STATS  ========================= -->
-
-## <img src="https://media.giphy.com/media/W3QKEujo8vztC/giphy.gif" width="28"> &nbsp; GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0x9r4ngu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="170" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=0x9r4ngu&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="170" alt="streak graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0x9r4ngu&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true" height="170" alt="languages graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=0x9r4ngu&theme=dracula&no-frame=true&no-bg=true&column=4&row=2&margin-w=8&margin-h=8" height="170" alt="trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0x9r4ngu&theme=dracula&hide_border=true&area=true&custom_title=Contribution%20Graph" width="98%" alt="activity graph" />
-</div>
-
-<!-- =========================  OS  ========================= -->
-
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp; Operating Systems
-
-<div align="center">
-
-| Linux | Debian | Ubuntu | Windows |
-|:-:|:-:|:-:|:-:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" alt="linux" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="48" alt="debian" /> | <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="48" alt="ubuntu" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="48" alt="windows" /> |
-
-</div>
-
-<!-- =========================  SKILLS  ========================= -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp; Tech Stack
-
-<table align="center">
-  <tr>
-    <td align="center" width="120"><b>Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=py,c,bash,html,css&theme=dark" alt="languages" />
     </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Databases</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql,mariadb&theme=dark" alt="dbs" />
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="48" alt="mssql" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="48" alt="oracle" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Cloud / DevOps</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=aws,docker,git,linux&theme=dark" alt="cloud" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Hardware</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="arduino" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Design</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr&theme=dark" alt="adobe" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48" alt="canva" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Tools</b></td>
-    <td>
-      <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" height="48" alt="hexo" />
-      <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" height="48" alt="zapier" />
+    <td valign="top" width="50%">
+
+### 🏰 Active Directory
+- Kerberoasting, AS-REP roasting
+- ACL abuse, BloodHound graph attacks
+- Lateral movement, credential dumping
+- Full domain compromise flows
+
+### 🐛 Bug Bounty
+- Bugcrowd program hunter
+- P1/P2 focused — high-impact findings
+- Recon automation pipelines
+- Responsible disclosure
+
     </td>
   </tr>
 </table>
 
-<!-- =========================  SNAKE  ========================= -->
+---
 
-## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHy/giphy.gif" width="28"> &nbsp; Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/0x9r4ngu/0x9r4ngu/output/snake.svg" alt="Snake animation" width="98%" />
-</div>
-
-<!-- =========================  SOCIALS  ========================= -->
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp; Connect With Me
-
-<p align="center">
-  <a href="https://0x9r4ngu.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-BD93F9?style=for-the-badge&logo=hexo&logoColor=white" alt="blog" />
-  </a>
-  <a href="https://www.linkedin.com/in/gaurangagautam/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="https://discordid.netlify.app/?id=937335684681850890" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
-  </a>
-  <a href="https://github.com/0x9r4ngu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
-</p>
-
-<!-- =========================  QUOTE  ========================= -->
+## `$ ls toolbox/`
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="quote" />
+
+**Offensive**
+
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/BloodHound-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+<img src="https://img.shields.io/badge/Impacket-1a1a2e?style=for-the-badge&logoColor=white&logo=python" />
+<img src="https://img.shields.io/badge/Nuclei-00BFFF?style=for-the-badge&logo=go&logoColor=white" />
+
+**Mobile**
+
+<img src="https://img.shields.io/badge/Frida-E91E63?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/MobSF-3F51B5?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Objection-1a1a2e?style=for-the-badge&logoColor=white&logo=apple" />
+<img src="https://img.shields.io/badge/jadx-6DB33F?style=for-the-badge&logoColor=white" />
+
+**Recon & Analysis**
+
+<img src="https://img.shields.io/badge/Subfinder-0052CC?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/ffuf-000000?style=for-the-badge&logoColor=white&logo=linux" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Ghidra-00A4E4?style=for-the-badge&logoColor=white" />
+
+**Languages & Stack**
+
+<img src="https://skillicons.dev/icons?i=py,c,bash,html,css,mysql,docker,aws,git,linux&theme=dark" />
+
 </div>
 
-<!-- =========================  FOOTER  ========================= -->
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" alt="footer" />
+## `$ cat writeups/index`
 
-<p align="center">
-  <i>“Stay curious, stay caffeinated.”</i>
-</p>
+<div align="center">
+
+| # | Title | Category |
+|:--|:------|:--------:|
+| 01 | [Active Directory Exploitation Flow](https://0x9r4ngu.github.io) | `AD` |
+| 02 | [Advanced Web App Pentesting Checklist](https://0x9r4ngu.github.io) | `Web` |
+| 03 | [Advanced Android Pentesting Checklist](https://0x9r4ngu.github.io) | `Mobile` |
+| 04 | [Advanced iOS Pentesting Checklist](https://0x9r4ngu.github.io) | `Mobile` |
+| 05 | [Rate-Limit Bypass: OTP Brute-Force + IP Rotation](https://0x9r4ngu.github.io) | `Web` |
+
+→ All writeups at **[0x9r4ngu.github.io](https://0x9r4ngu.github.io)**
+
+</div>
+
+---
+
+## `$ top -stats github`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0x9r4ngu&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=bd93f9&icon_color=bd93f9&text_color=c0c0c0" height="165" />
+  <img src="https://streak-stats.demolab.com?user=0x9r4ngu&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=bd93f9&fire=ff79c6&currStreakLabel=bd93f9" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0x9r4ngu&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=bd93f9&text_color=c0c0c0" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=0x9r4ngu&theme=dracula&no-frame=true&no-bg=true&column=4&margin-w=6&margin-h=6" height="150" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0x9r4ngu&theme=react-dark&hide_border=true&area=true&bg_color=0d0d0d&color=bd93f9&line=bd93f9&point=ff79c6&area_color=bd93f9&custom_title=Contribution+Activity" width="97%" />
+</div>
+
+---
+
+## `$ watch -n1 snake`
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/0x9r4ngu/0x9r4ngu/output/snake.svg" width="97%" alt="contribution snake" />
+</div>
+
+---
+
+## `$ ping socials`
+
+<div align="center">
+
+<a href="https://0x9r4ngu.github.io">
+  <img src="https://img.shields.io/badge/Blog-0d0d0d?style=for-the-badge&logo=hexo&logoColor=bd93f9" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/0x9r4ngu/">
+  <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://x.com/el_mango18">
+  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/gaurangagautam/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://discordid.netlify.app/?id=937335684681850890">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub><i>⚖️ Everything I publish is for authorized engagements, CTFs, and defensive education. Stay legal.</i></sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=100&section=footer&animation=fadeIn" />
+
+*"Stay curious, stay caffeinated."*
+
+</div>
