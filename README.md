@@ -113,7 +113,7 @@ status:    "breaking things responsibly since day one"
 
 **Languages & Stack**
 
-<img src="https://skillicons.dev/icons?i=py,c,bash,html,css,mysql,docker,aws,git,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,c,bash,html,css,mysql,docker,aws,git,linux&theme=light" />
 
 </div>
 
@@ -125,11 +125,11 @@ status:    "breaking things responsibly since day one"
 
 | # | Title | Category |
 |:--|:------|:--------:|
-| 01 | [Active Directory Exploitation Flow](https://0x9r4ngu.github.io) | `AD` |
-| 02 | [Advanced Web App Pentesting Checklist](https://0x9r4ngu.github.io) | `Web` |
-| 03 | [Advanced Android Pentesting Checklist](https://0x9r4ngu.github.io) | `Mobile` |
-| 04 | [Advanced iOS Pentesting Checklist](https://0x9r4ngu.github.io) | `Mobile` |
-| 05 | [Rate-Limit Bypass: OTP Brute-Force + IP Rotation](https://0x9r4ngu.github.io) | `Web` |
+| 01 | [Active Directory Exploitation Flow](https://0x9r4ngu.github.io/posts/ad-exploitation-flow/) | `AD` |
+| 02 | [Advanced Web App Pentesting Checklist](https://0x9r4ngu.github.io/posts/web-pentesting-checklist/) | `Web` |
+| 03 | [Advanced Android Pentesting Checklist](https://0x9r4ngu.github.io/posts/android-pentesting-checklist/) | `Mobile` |
+| 04 | [Advanced iOS Pentesting Checklist](https://0x9r4ngu.github.io/posts/ios-pentesting-checklist/) | `Mobile` |
+| 05 | [Rate-Limit Bypass: OTP Brute-Force + IP Rotation](https://0x9r4ngu.github.io/posts/rate-limit-bypass-otp-brute-force/) | `Web` |
 
 → All writeups at **[0x9r4ngu.github.io](https://0x9r4ngu.github.io)**
 
@@ -140,17 +140,17 @@ status:    "breaking things responsibly since day one"
 ## `$ top -stats github`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0x9r4ngu&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=bd93f9&icon_color=bd93f9&text_color=c0c0c0" height="165" />
-  <img src="https://streak-stats.demolab.com?user=0x9r4ngu&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=bd93f9&fire=ff79c6&currStreakLabel=bd93f9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0x9r4ngu&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=0x9r4ngu&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0x9r4ngu&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=bd93f9&text_color=c0c0c0" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=0x9r4ngu&theme=dracula&no-frame=true&no-bg=true&column=4&margin-w=6&margin-h=6" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0x9r4ngu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=0x9r4ngu&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=6&margin-h=6" height="150" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0x9r4ngu&theme=react-dark&hide_border=true&area=true&bg_color=0d0d0d&color=bd93f9&line=bd93f9&point=ff79c6&area_color=bd93f9&custom_title=Contribution+Activity" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0x9r4ngu&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity" width="97%" />
 </div>
 
 ---
