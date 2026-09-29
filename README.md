@@ -1,22 +1,22 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    0x9r4ngu · README.md                        ║ -->
+<!-- ║                    winpixor · README.md                        ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<a href="https://github.com/0x9r4ngu">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=210&section=header&text=0x9r4ngu&fontSize=78&fontAlignY=36&fontColor=ffffff&animation=fadeIn&desc=Offensive%20Security%20%E2%80%A2%20Bug%20Bounty%20%E2%80%A2%20Red%20Team&descAlignY=60&descSize=18&descColor=bd93f9" alt="header" />
+<a href="https://github.com/winpixor">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=210&section=header&text=winpixor&fontSize=78&fontAlignY=36&fontColor=ffffff&animation=fadeIn&desc=Offensive%20Security%20%E2%80%A2%20Bug%20Bounty%20%E2%80%A2%20Red%20Team&descAlignY=60&descSize=18&descColor=bd93f9" alt="header" />
 </a>
 
 <div align="center">
 
-<a href="https://github.com/0x9r4ngu">
+<a href="https://github.com/winpixor">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=620&height=42&lines=Breaking+things+on+purpose.;Finding+what+others+miss.;Web+%7C+API+%7C+Mobile+%7C+Active+Directory;Authorized+engagements+only." alt="typing" />
 </a>
 
 <br/>
 
-<a href="https://github.com/0x9r4ngu?tab=followers"><img src="https://img.shields.io/github/followers/0x9r4ngu?label=Followers&style=for-the-badge&color=bd93f9&labelColor=1a1a2e&logo=github" alt="followers" /></a>
-<a href="#"><img src="https://komarev.com/ghpvc/?username=0x9r4ngu&style=for-the-badge&color=bd93f9&label=VIEWS&labelColor=1a1a2e" alt="views" /></a>
-<a href="https://github.com/0x9r4ngu?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?color=bd93f9&labelColor=1a1a2e&style=for-the-badge&label=REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2F0x9r4ngu" alt="repos" /></a>
+<a href="https://github.com/winpixor?tab=followers"><img src="https://img.shields.io/github/followers/winpixor?label=Followers&style=for-the-badge&color=bd93f9&labelColor=1a1a2e&logo=github" alt="followers" /></a>
+<a href="#"><img src="https://komarev.com/ghpvc/?username=winpixor&style=for-the-badge&color=bd93f9&label=VIEWS&labelColor=1a1a2e" alt="views" /></a>
+<a href="https://github.com/winpixor?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?color=bd93f9&labelColor=1a1a2e&style=for-the-badge&label=REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwinpixor" alt="repos" /></a>
 
 </div>
 
@@ -25,7 +25,7 @@
 ## `$ whoami`
 
 ```yaml
-handle:    0x9r4ngu
+handle:    winpixor
 role:      Offensive Security Analyst / Bug Bounty Hunter
 focus:
   - Web & API Penetration Testing
@@ -34,7 +34,7 @@ focus:
   - Bug Bounty Research
 languages: [ Python, C, Bash, SQL ]
 platforms: [ Linux, AWS, Docker ]
-blog:      https://0x9r4ngu.github.io
+blog:      https://winpixor.github.io
 status:    "breaking things responsibly since day one"
 ```
 
@@ -182,13 +182,13 @@ status:    "breaking things responsibly since day one"
 
 | #  | Title | Category |
 |----|-------|----------|
-| 01 | [Active Directory Exploitation Flow](https://0x9r4ngu.github.io/writeups/Active-Directory/ad-exploitation-flow.html) | `AD` |
-| 02 | [Advanced Web App Pentesting Checklist](https://0x9r4ngu.github.io/writeups/Web/web-pentesting-checklist.html) | `Web` |
-| 03 | [Advanced Android Pentesting Checklist](https://0x9r4ngu.github.io/writeups/Mobile/android-pentesting-checklist.html) | `Mobile` |
-| 04 | [Advanced iOS Pentesting Checklist](https://0x9r4ngu.github.io/writeups/Mobile/ios-pentesting-checklist.html) | `Mobile` |
-| 05 | [Rate-Limit Bypass: OTP Brute-Force + IP Rotation](https://0x9r4ngu.github.io/writeups/Web/rate-limit-bypass-otp-brute-force.html) | `Web` |
+| 01 | [Active Directory Exploitation Flow](https://winpixor.github.io/writeups/Active-Directory/ad-exploitation-flow.html) | `AD` |
+| 02 | [Advanced Web App Pentesting Checklist](https://winpixor.github.io/writeups/Web/web-pentesting-checklist.html) | `Web` |
+| 03 | [Advanced Android Pentesting Checklist](https://winpixor.github.io/writeups/Mobile/android-pentesting-checklist.html) | `Mobile` |
+| 04 | [Advanced iOS Pentesting Checklist](https://winpixor.github.io/writeups/Mobile/ios-pentesting-checklist.html) | `Mobile` |
+| 05 | [Rate-Limit Bypass: OTP Brute-Force + IP Rotation](https://winpixor.github.io/writeups/Web/rate-limit-bypass-otp-brute-force.html) | `Web` |
 
-> → Full archive at **[0x9r4ngu.github.io/writeups](https://0x9r4ngu.github.io/writeups/)**
+> → Full archive at **[winpixor.github.io/writeups](https://winpixor.github.io/writeups/)**
 
 ---
 
@@ -196,12 +196,12 @@ status:    "breaking things responsibly since day one"
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=0x9r4ngu&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=bd93f9&icon_color=bd93f9" alt="stats" />
-<img height="170" src="https://streak-stats.demolab.com?user=0x9r4ngu&theme=tokyonight&hide_border=true&background=0d0d0d&ring=bd93f9&fire=bd93f9&currStreakLabel=bd93f9" alt="streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=winpixor&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=bd93f9&icon_color=bd93f9" alt="stats" />
+<img height="170" src="https://streak-stats.demolab.com?user=winpixor&theme=tokyonight&hide_border=true&background=0d0d0d&ring=bd93f9&fire=bd93f9&currStreakLabel=bd93f9" alt="streak" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=0x9r4ngu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=bd93f9" alt="top-langs" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=winpixor&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=bd93f9" alt="top-langs" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=0x9r4ngu&theme=tokyo-night&hide_border=true&area=true&bg_color=0d0d0d&color=bd93f9&line=bd93f9&point=ffffff&custom_title=Contribution%20Activity" alt="activity" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=winpixor&theme=tokyo-night&hide_border=true&area=true&bg_color=0d0d0d&color=bd93f9&line=bd93f9&point=ffffff&custom_title=Contribution%20Activity" alt="activity" />
 
 </div>
 
@@ -210,7 +210,7 @@ status:    "breaking things responsibly since day one"
 ## `$ watch -n1 snake`
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/0x9r4ngu/0x9r4ngu/output/snake.svg" alt="snake" />
+  <img width="100%" src="https://raw.githubusercontent.com/winpixor/winpixor/output/snake.svg" alt="snake" />
 </div>
 
 ---
@@ -219,9 +219,9 @@ status:    "breaking things responsibly since day one"
 
 <div align="center">
 
-<a href="https://0x9r4ngu.github.io"><img src="https://img.shields.io/badge/Blog-0d0d0d?style=for-the-badge&logo=hexo&logoColor=bd93f9" alt="blog" /></a>
+<a href="https://winpixor.github.io"><img src="https://img.shields.io/badge/Blog-0d0d0d?style=for-the-badge&logo=hexo&logoColor=bd93f9" alt="blog" /></a>
 <a href="https://www.instagram.com/0x9r4ngu/"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
-<a href="https://x.com/0x9r4ngu"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" /></a>
+<a href="https://x.com/winpixor"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" /></a>
 <a href="https://www.linkedin.com/in/gaurangagautam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="https://discordid.netlify.app/?id=937335684681850890"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>
 
