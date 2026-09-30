@@ -196,12 +196,22 @@ status:    "breaking things responsibly since day one"
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=winpixor&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=bd93f9&icon_color=bd93f9" alt="stats" />
-<img height="170" src="https://streak-stats.demolab.com?user=winpixor&theme=tokyonight&hide_border=true&background=0d0d0d&ring=bd93f9&fire=bd93f9&currStreakLabel=bd93f9" alt="streak" />
+<table>
+<tr>
+<td width="50%" align="center">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=winpixor&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d0d0d&title_color=bd93f9&icon_color=bd93f9&text_color=c9c9c9" alt="stats" />
+</td>
+<td width="50%" align="center">
+<img width="100%" src="https://streak-stats.demolab.com?user=winpixor&theme=tokyonight&hide_border=true&border_radius=10&background=0d0d0d&ring=bd93f9&fire=bd93f9&currStreakLabel=bd93f9" alt="streak" />
+</td>
+</tr>
+</table>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=winpixor&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=bd93f9" alt="top-langs" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=winpixor&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d0d0d&title_color=bd93f9" alt="top-langs" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=winpixor&theme=tokyo-night&hide_border=true&area=true&bg_color=0d0d0d&color=bd93f9&line=bd93f9&point=ffffff&custom_title=Contribution%20Activity" alt="activity" />
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=winpixor&theme=tokyo-night&hide_border=true&area=true&bg_color=0d0d0d&color=bd93f9&line=bd93f9&point=ffffff&custom_title=Contribution%20Activity" alt="activity" />
 
 </div>
 
