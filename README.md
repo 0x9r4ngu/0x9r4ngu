@@ -198,20 +198,17 @@ status:    "breaking things responsibly since day one"
 
 <table>
 <tr>
-<td width="50%" align="center">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=winpixor&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d0d0d&title_color=bd93f9&icon_color=bd93f9&text_color=c9c9c9" alt="stats" />
-</td>
-<td width="50%" align="center">
-<img width="100%" src="https://streak-stats.demolab.com?user=winpixor&theme=tokyonight&hide_border=true&border_radius=10&background=0d0d0d&ring=bd93f9&fire=bd93f9&currStreakLabel=bd93f9" alt="streak" />
-</td>
+<td width="50%" align="center"><img width="100%" src="https://raw.githubusercontent.com/winpixor/winpixor/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" /></td>
+<td width="50%" align="center"><img width="100%" src="https://streak-stats.demolab.com?user=winpixor&theme=tokyonight&hide_border=true" alt="streak" /></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img width="100%" src="https://raw.githubusercontent.com/winpixor/winpixor/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language" /></td>
+<td width="50%" align="center"><img width="100%" src="https://raw.githubusercontent.com/winpixor/winpixor/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most used languages" /></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img width="50%" src="https://raw.githubusercontent.com/winpixor/winpixor/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time" /></td>
 </tr>
 </table>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=winpixor&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d0d0d&title_color=bd93f9" alt="top-langs" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=winpixor&theme=tokyo-night&hide_border=true&area=true&bg_color=0d0d0d&color=bd93f9&line=bd93f9&point=ffffff&custom_title=Contribution%20Activity" alt="activity" />
 
 </div>
 
